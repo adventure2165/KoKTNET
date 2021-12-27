@@ -1,0 +1,3 @@
+[submodule "KoBERTNER"]
+	path = KoBERTNER
+	url = https://github.com/monologg/KoBERT-NER.git
