@@ -10,3 +10,9 @@ KTNET(Knowledge and Text fusion NET)을 한국어 및 Tensorflow(Pytorch 등)으
 
 Korean implementation of KTNET(Knowledge and Text fusion NET)_incomplete
 
+## Dataset
+
+KorQuAD 2.0
+NLTK
+Korean Wordnet -  http://wordnet.kaist.ac.kr/
+Wordnet
